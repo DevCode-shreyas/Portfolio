@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycbylBxwvqK3awP9ErvmEODBZCoscrGkS3UXSraxMRhsp7cXm6tSDwQntOoRjlhEawFLg/exec";
+  "https://script.google.com/macros/s/AKfycbz06neikhA9jRZubaUQpqGNeH82xC2qEFmZ_dbkBXIcS1xqZvVOJgt_7Uyy3uddJJhd/exec";
 const form = document.forms["submit-to-google-sheet"];
 const messagesuccess = document.getElementById("messagesuccess");
 
